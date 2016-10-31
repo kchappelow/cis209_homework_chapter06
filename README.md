@@ -22,8 +22,6 @@ Design: Describe the major steps for solving the problem.
 
 Coding: Write the program
 
-Hint: each major step will be implemented as a method. Possible methods are: isValid, sumOfDoubleEvenPlace, sumOfOddPlace, getDigit, prefixMatched, getSize, and getPrefix.
-
 Testing: Describe how you test this program
 
 Task #1: Create a word document in the Git repository with the Analysis, Design, and Testing descriptions.
