@@ -1,4 +1,4 @@
-# Chapter 7 project - due 11/14/2016 7:15 p.m.
+# Chapter 7 project - due 11/13/2017 7:15 p.m.
 
 Problem: Locker Puzzle
 
