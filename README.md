@@ -1,4 +1,4 @@
-# Chapter 6 homework - due 10/29/2018 7:15 p.m.
+# Chapter 6 homework
 
 Problem: Locker Puzzle
 
